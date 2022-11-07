@@ -31,26 +31,27 @@ Users should be able to:
 
 ### Screenshot
 
+Home page desktop version light mode
 ![Home page desktop version light mode](./screenshots/home_page_light_mode_desktop_version.png)
-
+Home page desktop version dark mode
 ![Home page desktop version dark mode](./screenshots/home_page_dark_mode_desktop_version.png)
-
+Home page mobile version light mode
 ![Home page mobile version light mode](./screenshots/home_page_light_mode_mobile_version.png)
-
+Home page mobile version dark mode
 ![Home page mobile version dark mode](./screenshots/home_page_dark_mode_mobile_version.png)
-
+country page desktop version light mode
 ![country page desktop version light mode](./screenshots/country_page_light_mode_desktop_version.png)
-
+country page desktop version dark mode
 ![country page desktop version dark mode](./screenshots/country_page_dark_mode_desktop_version.png)
-
+country page mobile version light mode
 ![country page mobile version light mode](./screenshots/country_page_light_mode_mobile_version.png)
-
+country page mobile version dark mode
 ![country page mobile version dark mode](./screenshots/country_page_dark_mode_mobile_version.png)
 
 ### Links
 
 - Solution URL: [github link](https://github.com/MiR-stack/rest_countries.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [rest countries](https://restcountries809.netlify.app/)
 
 ## My process
 
