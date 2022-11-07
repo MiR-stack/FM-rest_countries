@@ -17,6 +17,7 @@ import {
 
 function Country({ country, dark, handleMode,handleCountry }) {
 
+
   const name = country.name;
 
   let currencies = [];

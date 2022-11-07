@@ -13,7 +13,7 @@ const Container = styled.div`
   align-items: center;
   flex-direction: column;
   gap: 50px;
-  @media(max-width:375px){
+  @media(max-width:600px){
     margin-top: 10px;
     gap:20px
   }

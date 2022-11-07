@@ -11,7 +11,7 @@ const Select = styled.select`
 
   color: ${(props) => (props.theme.dark ? props.theme.colors.darkText : props.theme.colors.ligthText)};
   box-shadow: ${props => props.theme.css.shadow};
-  @media(max-width:375px){
+  @media(max-width:600px){
     width: 100%;
   }
 `;

@@ -10,7 +10,7 @@ const Wraper = styled.div`
   border-radius: 3px;
   background-color: ${(props) =>
     props.theme.dark ? props.theme.colors.darkEl : props.theme.colors.lightEl};
-  @media (max-width: 375px) {
+  @media (max-width: 600px) {
     width: 100%;
   }
 `;
@@ -28,7 +28,7 @@ const Input = styled.input`
   }
   font-weight: 300;
 
-  @media (max-width: 375px) {
+  @media (max-width: 600px) {
     width: 100%;
   }
 `;
